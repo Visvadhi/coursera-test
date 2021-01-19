@@ -31,13 +31,17 @@ body{
 }
 
 #nav-list li{
-    color:#ffffff;
+    color:#000000;
     text-align:center;
     font-size: 1.5em;
 }
 
+#nav-list a{
+    text-decoration: none;
+}
+
 #nav-list li:hover{
-    background:#20b2aa;
+    background:#add8e6;
     cursor:pointer;
 }
 
